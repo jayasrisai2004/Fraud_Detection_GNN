@@ -1,13 +1,8 @@
-Python
-
-PyTorch
-
-PyTorch Geometric
-
-NetworkX
-
-Pandas
-
-Scikit-learn
-
-Matplotlib
+## Tech Stack
+- Python
+- PyTorch
+- PyTorch Geometric
+- NetworkX
+- Pandas
+- Scikit-learn
+- Matplotlib
